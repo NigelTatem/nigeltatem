@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**NigelTatem/nigeltatem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mini website INCOMING
 
-Here are some ideas to get you started:
+- I'm currently working on: Productivity app that uses cool sprite animations and gamified elements to get the people addicted to personal growth 
+- I'm currently learning: Next.js
+- I'm currently a part of Cornell Digital Tech and Innovation, developing Courseplan!
+- How to reach me: nt387@cornell.edu
+- Fun fact: I play guitar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My best projects on Github!
+
+- [Courseplan](https://github.com/cornell-dti/course-plan/)
+- [SP25 Cornell AI Hackathon](https://github.com/Jay-Lalwani/SignWave)
+  
