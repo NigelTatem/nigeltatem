@@ -1,8 +1,8 @@
 Hi there 👋
 
-mini website INCOMING
+#mini website INCOMING
 
-- I'm currently working on: Productivity app that uses cool sprite animations and gamified elements to get the people addicted to personal growth 
+- I'm currently working on: Productivity app that uses gamified elements to get you addicted to personal growth 
 - I'm currently learning: Next.js
 - I'm currently a part of Cornell Digital Tech and Innovation, developing Courseplan!
 - How to reach me: nt387@cornell.edu
