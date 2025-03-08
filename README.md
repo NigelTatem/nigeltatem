@@ -1,6 +1,6 @@
 Hi there 👋
 
-#mini website INCOMING
+# mini website INCOMING
 
 - I'm currently working on: Productivity app that uses gamified elements to get you addicted to personal growth 
 - I'm currently learning: Next.js
